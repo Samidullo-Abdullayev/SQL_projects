@@ -3,11 +3,12 @@ SQL project to analyze online music store data
 
 This project is for beginners and will teach you how to analyze the music playlist database. You can examine the dataset with SQL and help the store understand its business growth by answering simple questions.
 
-> Complete project explained on YouTube: https://www.youtube.com/watch?v=VFIuIjswMKM
+> Complete project [analysis codes](/SQL_analysis_codes)
 
 ## Database and Tools
 * Postgre SQL
 * PgAdmin4
 
 Schema- Music Store Database  
-![MusicDatabaseSchema](https://user-images.githubusercontent.com/112153548/213707717-bfc9f479-52d9-407b-99e1-e94db7ae10a3.png)
+![MusicDatabaseSchema](https://github.com/Samidullo-Abdullayev/SQL_projects/assets/127269426/bd4a6e20-2a35-4404-bcab-303da81f008d)
+
