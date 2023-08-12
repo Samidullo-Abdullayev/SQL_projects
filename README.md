@@ -10,4 +10,5 @@ This project is for beginners and will teach you how to analyze the music playli
 * PgAdmin4
 
 Schema- Music Store Database  
-![MusicDatabaseSchema](/Muic_Store_database.png)
+
+![MusicDatabaseSchema](https://github.com/Samidullo-Abdullayev/SQL_projects/assets/127269426/e5ab5fb4-040b-4513-9316-2cfe5ab26a48)
